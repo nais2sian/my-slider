@@ -1,7 +1,7 @@
 # My Slider (Next.js + Tailwind)
 
 Веб-приложение для демонстрации слайдера и адаптивного интерфейса на **Next.js** и **Tailwind CSS**.
-Проект также легко задеплоен на [Vercel]([https://vercel.com/](https://my-slider-beta.vercel.app/)).
+Проект задеплоен на [Vercel](https://my-slider-beta.vercel.app/).
 
 ## Технологии
 - **Next.js 13+ (App Router)**
